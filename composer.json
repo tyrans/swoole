@@ -1,0 +1,12 @@
+{
+    "name": "tyrans/swoole",
+    "description": "swoole for laravel",
+    "type": "library",
+    "authors": [
+        {
+            "name": "tyrans",
+            "email": "tyrans@qq.com"
+        }
+    ],
+    "require": {}
+}
