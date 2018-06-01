@@ -1,16 +1,23 @@
 {
     "name": "tyrans/laravel_swoole",
+
     "description": "swoole for laravel",
+
     "license":"MIT",
+
     "type": "library",
+
     "authors": [
         {
             "name": "tyrans",
             "email": "tyrans@qq.com"
         }
     ],
+
     "require": {},
+
     "version":"1.0.0",
+
     "autoload": {
         "psr-4": {
             "tyrans\\":"src"
