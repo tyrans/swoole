@@ -11,5 +11,6 @@ class Hello {
     public static function greet()
     {
         echo 'hello composer';
+        
     }
 }
