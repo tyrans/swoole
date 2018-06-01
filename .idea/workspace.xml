@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebcf2316-b210-4607-9173-fcc417fddacf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Hello.class.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/tyrans.iml" afterPath="$PROJECT_DIR$/.idea/tyrans.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/app.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/cache/packages.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/cache/services.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Application.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Bootstrap/RegisterFacades.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Bootstrap/RegisterProviders.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Console/SwooleServiceCommand.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Http/Kernel.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Http/Request.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Providers/LogServiceProvider.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Providers/RouteServiceProvider.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Providers/SwooleServiceProvider.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Providers/stubs/swoole-app.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation/Providers/stubs/swoole.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Http/Kernel.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Http/Request.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Http/UploadedFile.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/SwooleServer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/SwooleServer.php.back" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,8 +29,8 @@
       <file leaf-file-name="Hello.class.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Hello.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="171">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -124,6 +101,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -156,16 +134,15 @@
       <option name="presentableId" value="Default" />
       <updated>1527586143819</updated>
       <workItem from="1527586145170" duration="1613000" />
-      <workItem from="1527824647216" duration="642000" />
+      <workItem from="1527824647216" duration="1613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2255000" />
+    <option name="totallyTimeSpent" value="3226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25339368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -251,8 +228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hello.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="171">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
