@@ -5,7 +5,7 @@
  * Date: 2018/6/1
  * Time: 11:53
  */
-namespace tyrans;
+namespace Tryans\Framework;
 
 class Hello {
     public static function greet()
