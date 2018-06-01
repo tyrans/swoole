@@ -1,6 +1,7 @@
 {
     "name": "tyrans/laravel_swoole",
     "description": "swoole for laravel",
+    "license":"MIT",
     "type": "library",
     "authors": [
         {
